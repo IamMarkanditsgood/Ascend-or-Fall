@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Cassandra
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Cassandra was the embodiment of mercy and wisdom, despite the difficult
+      choices she had to make. She deserves eternal rest in Elysium.
+  characterStories:
+  - _storyName: Queen of Mercy
+    _story: Prioritized the needs of her people above her own.
+  - _storyName: Modesty
+    _story: Refused a lavish palace to build hospitals and schools instead.
+  - _storyName: Betrayal of Her Husband
+    _story: Allowed her husband to be executed to preserve peace.
+  - _storyName: Peacemaker
+    _story: Successfully negotiated alliances between warring nations.
+  - _storyName: Selfless Sacrifice
+    _story: Gave her life to save a city, taking the blame for its conflicts.
+  _characterName: Cassandra
+  _characterSprite: {fileID: 21300000, guid: 69713e403780f4a4bbee13655d702571, type: 3}

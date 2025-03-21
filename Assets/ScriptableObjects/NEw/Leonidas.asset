@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Leonidas
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Leonidas led a life of mixed deeds, but his final sacrifice redeemed
+      many of his sins. He deserves Reincarnation to prove he can live a better life.
+  characterStories:
+  - _storyName: Brave Defender
+    _story: Protected a village from bandit raids.
+  - _storyName: Harsh Judge
+    _story: Once executed an innocent man based on false accusations.
+  - _storyName: Loyal Friend
+    _story: Always stood by his comrades, even in the toughest situations.
+  - _storyName: Greed for Power
+    _story: Sometimes pursued personal ambition at the cost of morality.
+  - _storyName: Saving Children
+    _story: Sacrificed himself to distract enemy forces, allowing children to escape.
+  _characterName: Leonidas
+  _characterSprite: {fileID: 21300000, guid: c195b175466aa79428dc48f9695a157b, type: 3}

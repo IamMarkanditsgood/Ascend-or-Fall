@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Agrippa
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Agrippa was driven by pride and greed, causing immense suffering.
+      His place is in Tartarus, where he will come to understand his folly.
+  characterStories:
+  - _storyName: Conqueror
+    _story: Destroyed entire villages in his quest for power.
+  - _storyName: Ruthless General
+    _story: Sacrificed his soldiers for personal ambition.
+  - _storyName: Liberator of Captives
+    _story: Freed imprisoned women and children on one occasion.
+  - _storyName: Blasphemy Against the Gods
+    _story: Believed the gods were powerless against him.
+  - _storyName: Death in Battle
+    _story: Died fighting for his pride rather than justice.
+  _characterName: Agrippa
+  _characterSprite: {fileID: 21300000, guid: a133b70a7642f754fa3b7db0dd37f4e3, type: 3}

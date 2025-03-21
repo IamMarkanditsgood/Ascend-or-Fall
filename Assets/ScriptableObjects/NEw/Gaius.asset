@@ -1,0 +1,32 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Gaius
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Gaius lived a life full of errors and trickery, but his final act
+      of redemption shows his potential for virtue. He will go to Reincarnation,
+      to start anew.
+  characterStories:
+  - _storyName: Court Jester
+    _story: Brought joy to a king and his court during difficult times.
+  - _storyName: Bad Advisor
+    _story: Gave poor advice that led to the loss of a village in a war.
+  - _storyName: Thievery for the Poor
+    _story: Stole gold from a wealthy man and distributed it to the poor.
+  - _storyName: Pact with Enemies
+    _story: Betrayed the king to ensure his own safety.
+  - _storyName: Heroic End
+    _story: Sacrificed his life to save the king, redeeming his past mistakes.
+  _characterName: Gaius
+  _characterSprite: {fileID: 21300000, guid: 72d91c27e9ed3334794b7a924bfd8e3e, type: 3}

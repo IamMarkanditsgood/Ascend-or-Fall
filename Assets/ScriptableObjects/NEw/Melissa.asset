@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Melissa
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Melissa devoted her life to helping others and sacrificing herself.
+      She belongs in Elysium as a beacon of virtue.
+  characterStories:
+  - _storyName: War Nurse
+    _story: 'Saved dozens of soldiers on the battlefield, risking her life. '
+  - _storyName: Secret Theft
+    _story: 'Stole food from a store to feed orphans. '
+  - _storyName: Becoming a Teacher
+    _story: 'Dedicated her life to educating children from poor families. '
+  - _storyName: Modesty
+    _story: 'Never boasted about her deeds, though she could have gained fame. '
+  - _storyName: Village Rescue
+    _story: 'Organized the evacuation of an entire village during a flood. '
+  _characterName: Melissa
+  _characterSprite: {fileID: 21300000, guid: e632c049f6d4c0447b2b5ee0e8da8e2f, type: 3}

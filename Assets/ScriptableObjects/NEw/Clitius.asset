@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cca5f64d8e23f4a4fb542a3f3d71bef8, type: 3}
+  m_Name: Clitius
+  m_EditorClassIdentifier: 
+  advice:
+  - _god: 0
+    _godAdvice: Clitius was a selfish man, and his late redemption cannot erase a
+      lifetime of corruption. His soul belongs in Tartarus.
+  characterStories:
+  - _storyName: Corrupt Politician
+    _story: 'Took bribes in exchange for favorable decisions. '
+  - _storyName: Charity for Fame
+    _story: Donated money only to boost his own reputation.
+  - _storyName: Saving a City
+    _story: Once risked everything to negotiate peace with an enemy.
+  - _storyName: Bad Husband
+    _story: Neglected his family in pursuit of his career.
+  - _storyName: Final Act of Kindness
+    _story: Helped the poor and admitted his faults before his death.
+  _characterName: Clitius
+  _characterSprite: {fileID: 21300000, guid: b4f73ed0c757db64a8366022be6da7bd, type: 3}
